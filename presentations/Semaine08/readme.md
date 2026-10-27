@@ -4,7 +4,7 @@
 
 [concept] Gestionnaire de paquets
 - Nom: Joseph Soufsaf
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1pnI9gFtuPWoF4ZwaNqEX1c6lAo16EEK3G80pVnZwG8c/edit?slide=id.h1c4f36e53be516da_0_1197#slide=id.h1c4f36e53be516da_0_1197
 
 [concept] Bots pour la mise à jour des dépendances
 - Nom: David Correa
@@ -28,14 +28,14 @@
 
 [concept] Dependency hell
 - Nom: Hamza Aqel
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1J41jJYVc8w5ShUi7fFDEI9pNZQUu3TyS/edit?slide=id.p1#slide=id.p1
 
 [demo] [cycloneDX](https://cyclonedx.org/) pour la génération de 'software bill of materials'
 - Nom: Dickson Ma
 - Présentation: 
 
 [demo] [Nix](https://nixos.org/), gestionnaire de paquets
-- Nom: 
+- Nom: Yanis Boukhili
 - Présentation: 
 
 [demo] [tree-shaking](https://dev.to/softheartengineer/tree-shaking-in-js-51do)
@@ -43,5 +43,5 @@
 - Présentation: 
 
 [demo] [Dependency Updater](https://github.com/softaworks/agent-toolkit/tree/main/skills/dependency-updater)
-- Nom: 
+- Nom: Mohamed Saidana
 - Présentation: 
